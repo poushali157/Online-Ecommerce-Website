@@ -1,7 +1,7 @@
 # Online-Ecommerce-Website
 
-This is fully functional e-commerce website, developed using html,css,js, PHP and MySQL. 
-It alows usersto browse products,manage their accounts, and experience a dynamic online shopping system.
+This project was developed as a full-stack learning project to understand real-world e-commerce functionalities like user management, database handling, and dynamic web development.
+It allows users to browse products, manage their accounts, and experience a dynamic online shopping system.
 
 
 Feature : 
@@ -17,6 +17,6 @@ Feature :
  10. Razorpay integration for payments
 
 Technologies Used:
- 1.Frontend: HTML, CSS, Bootstrap, JavaScript
- 2.Backend: PHP
- 3.Database: MySQL
+ 1. Frontend: HTML, CSS, Bootstrap, JavaScript
+ 2. Backend: PHP
+ 3. Database: MySQL
